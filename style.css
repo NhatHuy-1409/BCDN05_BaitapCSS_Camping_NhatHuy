@@ -159,6 +159,7 @@ img {
 .contact {
     background-color: #f8e1db;
     margin-top: 50px;
+    border-radius: 30px;
 }
 .contact__item {
     float: left;
