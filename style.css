@@ -45,6 +45,9 @@ img {
 .header__link a:hover{
     color: #ee9551;
 }
+.header__menu .active a{
+    color: #ee9551;
+}
 
 /* ---------Carousel--------- */
 
@@ -74,6 +77,7 @@ img {
     border-radius: 20px;
     text-align: center;
     padding: 40px;
+    box-shadow: 0 0 1px grey;
 }
 .carousel__item img {
     width: 70px;
